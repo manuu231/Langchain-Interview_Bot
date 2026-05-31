@@ -1,4 +1,4 @@
-# 🤖 Day 5 — LangChain Interview Practice Bot
+# 🤖  LangChain Interview Practice Bot
 
 > Part of my **90-Day LangChain + AI Job Search Journey**  
 > Built by **Manpreet Kaur** | MS Data Science, Clarkson University | AI/ML Engineer
