@@ -1,7 +1,6 @@
-# 🤖  LangChain Interview Practice Bot
+# 🤖 LangChain Interview Practice Bot
 
-> Part of my **90-Day LangChain + AI Job Search Journey**  
-> Built by **Manpreet Kaur** | MS Data Science, Clarkson University | AI/ML Engineer
+Built by **Manpreet Kaur** | MS Data Science, Clarkson University | AI/ML Engineer
 
 ---
 
@@ -40,7 +39,7 @@ An AI-powered **Interview Practice Bot** that:
 
 ## 🔐 API Key Safety
 
-This project uses **Colab Secrets** to store the API key safely.  
+This project uses **Colab Secrets** to store the API key safely.
 The actual key is **never written in the code or pushed to GitHub.**
 
 ```python
@@ -53,15 +52,6 @@ To run this notebook:
 1. Open in Google Colab
 2. Go to 🔑 **Secrets** (left sidebar) → Add your `GEMINI_API_KEY`
 3. Run all cells
-
----
-
-## 📂 Project Structure
-
-```
-day5_langchain_interview_bot.ipynb   ← Main notebook
-README.md                            ← This file
-```
 
 ---
 
@@ -81,28 +71,12 @@ INTERVIEWER:  Good answer! You correctly identified the key difference.
 
 ---
 
-## 📅 90-Day Journey Progress
-
-| Day | Topic | Status |
-|---|---|---|
-| Day 1 | LangChain Prompt Templates + LCEL pipe operator | ✅ Done |
-| Day 2 | ChatOpenAI Deep Dive — temperature, SystemMessage | ✅ Done |
-| Day 3 | Output Parsers + Memory + ChatMessageHistory | ✅ Done |
-| Day 4 | Conversation Chain + RunnableWithMessageHistory | ✅ Done |
-| Day 5 | Mini Project — Interview Practice Bot | ✅ Done |
-
----
-
 ## 👩‍💻 About Me
 
-**Manpreet Kaur**  
-MS Data Science — Clarkson University  
-AI/ML Engineer — 3+ years experience at Wipro  
-STEM OPT eligible till 2028  
+**Manpreet Kaur**
+MS Data Science — Clarkson University
+AI/ML Engineer — 3+ years experience at Wipro
+STEM OPT eligible till 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com)
-
----
-
-*This project is part of a 90-day structured job search plan to land an AI/ML Engineer role.*
