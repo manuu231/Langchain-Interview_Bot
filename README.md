@@ -74,9 +74,10 @@ INTERVIEWER:  Good answer! You correctly identified the key difference.
 ## 👩‍💻 About Me
 
 **Manpreet Kaur**
-MS Data Science — Clarkson University
+MS Data Science — Clarkson University, Potsdam, NY
 AI/ML Engineer — 3+ years experience at Wipro
 STEM OPT eligible till 2028
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/manpreetkaurmahal)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/manuu231)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Profile-yellow)](https://huggingface.co/Manpreet02)
